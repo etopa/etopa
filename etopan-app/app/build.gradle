@@ -7,7 +7,7 @@ android {
     // WARNING! CHANGING THE ORDER OF LINES BREAKS build-config
     compileSdk = 37
     buildToolsVersion = "37.0.0"
-    ndkVersion "29.0.14206865"
+    ndkVersion "30.0.16248370"
     // use LTS (not RC) version for ndkVersion!
 
     defaultConfig {
